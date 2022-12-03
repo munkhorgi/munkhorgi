@@ -30,3 +30,28 @@
   border: 1px solid black;
   background-color: antiquewhite;
 }
+.userImg{
+  width: 60px;
+  height: 60px;
+  margin-left: 7px;
+  margin-right: 20px;
+  background:linear-gradient(45deg, red, blue);;
+  border-radius: 50%;
+  
+}
+.sda{
+  display: flex;
+  padding: 7px;
+}
+.userFatherDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Switch{
+  background-color: blue;
+  border-radius: 20px;
+  border: blue , none;
+  height: 30px;
+}
